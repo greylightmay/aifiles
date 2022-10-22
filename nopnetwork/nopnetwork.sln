@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8E2F1AD7-A312-41E3-92F3-D15AF164A0F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{252F28A3-4124-4CE9-880A-3C61F017EDED}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "nopnetwork", "src\nopnetwork\nopnetwork.xproj", "{48D3EE4D-3169-40EA-AF3E-93608D42C514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D3EE4D-3169-40EA-AF3E-93608D42C514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D3EE4D-3169-40EA-AF3E-93608D42C514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D3EE4D-3169-40EA-AF3E-93608D42C514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D3EE4D-3169-40EA-AF3E-93608D42C514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{48D3EE4D-3169-40EA-AF3E-93608D42C514} = {8E2F1AD7-A312-41E3-92F3-D15AF164A0F2}
+	EndGlobalSection
+EndGlobal

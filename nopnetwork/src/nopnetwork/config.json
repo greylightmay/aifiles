@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "nopnetwork"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-nopnetwork-60111258-2447-4a83-9537-b76cb5586fa9;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
